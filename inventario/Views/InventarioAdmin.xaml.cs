@@ -22,7 +22,9 @@ namespace inventario.Views
     {
         public InventarioAdmin()
         {
+           
             InitializeComponent();
+            getElementos();
         }
         public void getElementos()
         {
@@ -39,6 +41,7 @@ namespace inventario.Views
                                 nm = elementos.NombreElemento,
                                 ec = elementos.Cantidad,
                                 pn = persona.Nombre,
+             
                                 es = estado.NombreEstadoElemento,
                                 cg = categoria.NombreCategoria
 
@@ -99,7 +102,6 @@ namespace inventario.Views
                     //{
                     //    MessageBox.Show("se cancelo la eliminacion");
                     //}
-
                 }
 
             }
@@ -126,10 +128,7 @@ namespace inventario.Views
 
 
 
-        private void combo_categoria_SelectionChanged(object sender, SelectionChangedEventArgs e)
-        {
-
-        }
+       
     }
 }
 

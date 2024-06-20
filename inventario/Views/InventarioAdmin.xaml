@@ -70,6 +70,6 @@
                 </DataGridTemplateColumn>
             </DataGrid.Columns>
         </DataGrid>
-        <Button x:Name="btnagregar" Content="Agregar new" HorizontalAlignment="Left" Margin="261,21,0,0" Grid.Row="1" VerticalAlignment="Top" Width="122" Click="btnagregar_Click" Grid.Column="1"/>
+        <Button x:Name="btnagregar" Content="Agregar nuevo producto" HorizontalAlignment="Left" Margin="265,10,0,0" Grid.Row="1" VerticalAlignment="Top" Width="150" Click="btnagregar_Click" Grid.Column="1" Height="25"/>
     </Grid>
 </Window>
