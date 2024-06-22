@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\Dann\Inventario\inventario\App.xaml
-5-145513196
+7926252573
 
-21-1799590567
-198-1509178875
-MainWindow.xaml;Views\Agregar_producto.xaml;Views\Categoria_informatica.xaml;Views\Categoria_todos.xaml;Views\InventarioAdmin.xaml;
+231515517899
+238-1565571680
+MainWindow.xaml;Views\Agregar_producto.xaml;Views\Categoria_agricultura.xaml;Views\Categoria_herramientas.xaml;Views\Categoria_informatica.xaml;Views\Categoria_todos.xaml;Views\InventarioAdmin.xaml;
 
 True
 

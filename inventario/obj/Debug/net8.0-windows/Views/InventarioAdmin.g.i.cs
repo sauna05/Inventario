@@ -77,7 +77,7 @@ namespace inventario.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/inventario;V1.0.0.0;component/views/inventarioadmin.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/inventario;component/views/inventarioadmin.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\InventarioAdmin.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

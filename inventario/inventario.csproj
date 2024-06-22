@@ -12,7 +12,9 @@
     <None Remove="categoria_agricultura.png" />
     <None Remove="categoria_herramientas.png" />
     <None Remove="categoria_informatica.png" />
+    <None Remove="categoria_todos.png" />
     <None Remove="login.png" />
+    <None Remove="Views\icono_lupa.png" />
   </ItemGroup>
 
   <ItemGroup>
@@ -32,7 +34,9 @@
     <Resource Include="categoria_agricultura.png" />
     <Resource Include="categoria_herramientas.png" />
     <Resource Include="categoria_informatica.png" />
+    <Resource Include="categoria_todos.png" />
     <Resource Include="login.png" />
+    <Resource Include="Views\icono_lupa.png" />
   </ItemGroup>
 
 </Project>

@@ -53,7 +53,7 @@ namespace inventario.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/inventario;V1.0.0.0;component/views/agregar_producto.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/inventario;component/views/agregar_producto.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\Agregar_producto.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
