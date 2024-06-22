@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\user\source\repos\inventario\inventario\obj\Debug\net8.0-windows\
+C:\Users\Dann\Inventario\inventario\obj\Debug\net8.0-windows\
 inventario
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\user\source\repos\inventario\inventario\App.xaml
+C:\Users\Dann\Inventario\inventario\App.xaml
 5-145513196
 
 21-1799590567
-238-1775847827
+198-1509178875
 MainWindow.xaml;Views\Agregar_producto.xaml;Views\Categoria_informatica.xaml;Views\Categoria_todos.xaml;Views\InventarioAdmin.xaml;
 
 True
