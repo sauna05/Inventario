@@ -284,3 +284,13 @@ C:\Users\Dann\Inventario\inventario\obj\Debug\net8.0-windows\refint\inventario.d
 C:\Users\Dann\Inventario\inventario\obj\Debug\net8.0-windows\inventario.pdb
 C:\Users\Dann\Inventario\inventario\obj\Debug\net8.0-windows\inventario.genruntimeconfig.cache
 C:\Users\Dann\Inventario\inventario\obj\Debug\net8.0-windows\ref\inventario.dll
+C:\Users\Dann\Inventario\inventario\obj\Debug\net8.0-windows\Views\Categoria_agricultura.g.cs
+C:\Users\Dann\Inventario\inventario\obj\Debug\net8.0-windows\Views\Categoria_herramientas.g.cs
+C:\Users\Dann\Inventario\inventario\obj\Debug\net8.0-windows\Views\PantallaAdmin.g.cs
+C:\Users\Dann\Inventario\inventario\obj\Debug\net8.0-windows\Views\Categoria_agricultura.baml
+C:\Users\Dann\Inventario\inventario\obj\Debug\net8.0-windows\Views\Categoria_herramientas.baml
+C:\Users\Dann\Inventario\inventario\obj\Debug\net8.0-windows\Views\PantallaAdmin.baml
+C:\Users\Dann\Inventario\inventario\obj\Debug\net8.0-windows\Views\Inventario_admin.g.cs
+C:\Users\Dann\Inventario\inventario\obj\Debug\net8.0-windows\Views\Inventario_admin.baml
+C:\Users\Dann\Inventario\inventario\obj\Debug\net8.0-windows\Views\Categoria_todos_admin.g.cs
+C:\Users\Dann\Inventario\inventario\obj\Debug\net8.0-windows\Views\Categoria_todos_admin.baml

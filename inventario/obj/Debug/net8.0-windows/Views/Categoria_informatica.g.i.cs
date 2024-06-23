@@ -69,7 +69,7 @@ namespace inventario.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/inventario;V1.0.0.0;component/views/categoria_informatica.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/inventario;component/views/categoria_informatica.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\Categoria_informatica.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

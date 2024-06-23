@@ -2,7 +2,12 @@
 
 FC:\Users\Dann\Inventario\inventario\MainWindow.xaml;;
 FC:\Users\Dann\Inventario\inventario\Views\Agregar_producto.xaml;;
+FC:\Users\Dann\Inventario\inventario\Views\Categoria_agricultura.xaml;;
+FC:\Users\Dann\Inventario\inventario\Views\Categoria_herramientas.xaml;;
 FC:\Users\Dann\Inventario\inventario\Views\Categoria_informatica.xaml;;
 FC:\Users\Dann\Inventario\inventario\Views\Categoria_todos.xaml;;
+FC:\Users\Dann\Inventario\inventario\Views\Categoria_todos_admin.xaml;;
 FC:\Users\Dann\Inventario\inventario\Views\InventarioAdmin.xaml;;
+FC:\Users\Dann\Inventario\inventario\Views\Inventario_admin.xaml;;
+FC:\Users\Dann\Inventario\inventario\Views\PantallaAdmin.xaml;;
 

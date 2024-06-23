@@ -170,7 +170,7 @@
                 CanUserDeleteRows="False" 
                 AutoGenerateColumns="False" 
                 Margin="22,11,11,0" 
-                HorizontalScrollBarVisibility="Auto" Height="294" VerticalAlignment="Top" SelectionChanged="data_productos_informatica_SelectionChanged" Grid.Row="1"  >
+                HorizontalScrollBarVisibility="Auto" Height="294" VerticalAlignment="Top" Grid.Row="1"  >
 
             <DataGrid.Columns>
                 <DataGridTextColumn Header="Código" Binding="{Binding cd}" Width="*"/>

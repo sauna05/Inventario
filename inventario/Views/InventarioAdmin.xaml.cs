@@ -24,7 +24,7 @@ namespace inventario.Views
         {
            
             InitializeComponent();
-            getElementos();
+            //getElementos();
         }
         public void getElementos()
         {
