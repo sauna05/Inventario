@@ -40,6 +40,14 @@ namespace inventario
             inventarioAdmin.Show();
             this.Close(); 
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            PantallaAdmin ventanaAdmin = new PantallaAdmin();
+            ventanaAdmin.Show();
+            Close();
+
+        }
     }
 }
 
