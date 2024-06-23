@@ -29,5 +29,10 @@ namespace inventario.Views
         Inventario_admin inventario_admin = new Inventario_admin();
             inventario_admin.Show();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

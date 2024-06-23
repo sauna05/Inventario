@@ -22,7 +22,7 @@ namespace inventario
         {
             InitializeComponent();
         
-            frame_principal.Navigate(new Categoria_todos());
+            //frame_principal.Navigate(new Categoria_todos());
         }
 
 
@@ -35,10 +35,9 @@ namespace inventario
 
         private void btn_iniciar_Click(object sender, RoutedEventArgs e)
         {
-            //frame_principal.Navigate(new InventarioAdmin());
-            InventarioAdmin inventarioAdmin = new InventarioAdmin();
-            inventarioAdmin.Show();
-            this.Close(); 
+            Inventario_admin inventario_Admin = new Inventario_admin();
+            inventario_Admin.Show();
+            this.Close();
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
